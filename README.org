@@ -1,0 +1,5 @@
+#+Title: Pokemons
+#+Author: BotNikos
+
+* Description
+Simple script that allows draw pokemons in term.
