@@ -1,6 +1,6 @@
 #!/bin/bash
 
-path=~/pokemons/images
+path=~/PokeTerm/images
 pokemons=()
 
 for dir in $(ls $path)

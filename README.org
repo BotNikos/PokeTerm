@@ -3,3 +3,6 @@
 
 * Description
 Simple script that allows draw pokemons in term.
+
+* Dependencies
+1. [[https://github.com/posva/catimg][catimg]] - Need to draw in terminal
